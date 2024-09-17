@@ -64,6 +64,10 @@ Você pode modificar o arquivo style.css para personalizar a aparência da pági
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
+## Acesso
+
+Para acessar o site visite: https://h-dc-host-six.vercel.app/
+
 ## Contato
 
 Desenvolvido por: **Bruno Lima**  
@@ -78,6 +82,3 @@ Git HUB: [@s7lima](https://github.com/s7lima)
 
 Se precisar de mais alguma coisa, é só avisar!
 
-## Acesso
-
-Para acessar o site visite: https://h-dc-host-six.vercel.app/
