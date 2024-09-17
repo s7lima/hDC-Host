@@ -1,19 +1,12 @@
-Aqui está um exemplo de README.md para o seu projeto "hDC Host", incluindo aspectos do CSS que você forneceu:
+## Estrutura do projeto:
 
-```markdown
-# hDC Host
+A estrutura é composta por um arquivo HTML e um arquivo CSS para estilização. Abaixo estão os principais componentes do projeto.
 
-Os melhores serviços para projetos de todos os tamanhos!
+## Tecnologias:
 
-## Descrição
+### 1. HTML <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="26" height="26">
 
-hDC Host é uma plataforma de hospedagem que oferece uma variedade de planos para atender a diferentes necessidades. Com foco em segurança, performance e suporte 24/7, garantimos que seu site esteja sempre no ar e funcionando perfeitamente.
-
-## Tecnologias Usadas
-
-- HTML
-- CSS
-- Font Awesome (ícones)
+### 2. CSS <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" alt="CSS" width="26" height="26">
 
 ## Instalação
 
